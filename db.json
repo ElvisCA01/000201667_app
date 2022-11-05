@@ -1,0 +1,14 @@
+{
+  "Usuarios": [
+    { "id": 1,
+      "nombreDueño": "Juan",
+      "nombreComponente": "Motor",
+      "revision": "Roto"
+    },
+    { "id": 2,
+      "nombreDueño": "Manuel",
+      "nombreComponente": "Motor",
+      "revision": "Necesita reparación"
+    }
+  ]
+}
